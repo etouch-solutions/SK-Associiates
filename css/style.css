@@ -1784,9 +1784,7 @@ p {
         font-size: 14px;
     }
 
-    .footer {
-        text-align: center;
-    }
+     
 
 
 /* Small Mobile Devices */
@@ -1821,7 +1819,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 15px 20px;
+   
     max-width: 1200px;
     margin: auto;
 }
